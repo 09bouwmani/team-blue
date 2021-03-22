@@ -16,7 +16,7 @@ table, th, td {
 	</colgroup>
   <tr>
 		<th>Pensions</th>
-<!--    <td> <INPUT num "%"> </td>     -->
+<!--    <td> <INPUT int "%"> </td>     -->
 		<th>Emergency</th>
 		<th>Children</th>
 		<th>Life Change</th>
